@@ -1,6 +1,6 @@
 package com.nabilla.mvvmnews.api
 
-import com.nabilla.mvvmnews.NewsResponse
+import com.nabilla.mvvmnews.models.NewsResponse
 import com.nabilla.mvvmnews.util.Constant.Companion.API_KEY
 import retrofit2.http.GET
 import retrofit2.http.Query

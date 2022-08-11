@@ -1,4 +1,4 @@
-package com.nabilla.mvvmnews
+package com.nabilla.mvvmnews.models
 
 data class Source(
     val id: String,
